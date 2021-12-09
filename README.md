@@ -7,4 +7,4 @@ TODO:\
 -> Access Control Management\
 -> Voting system \
 -> Email subscription system \
--> Paid Content \
+-> Paid Content 
